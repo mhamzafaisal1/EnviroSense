@@ -1,0 +1,83 @@
+{
+    "environmentalData": {
+      "sensor1": {
+        "type": "Temperature",
+        "value": "25.6",
+        "unit": "Celsius",
+        "timestamp": "2024-09-13T10:00:00Z"
+      },
+      "sensor2": {
+        "type": "Humidity",
+        "value": "60",
+        "unit": "%",
+        "timestamp": "2024-09-13T10:00:00Z"
+      },
+      "sensor3": {
+        "type": "Air Quality",
+        "value": "35",
+        "unit": "AQI",
+        "timestamp": "2024-09-13T10:05:00Z"
+      },
+      "sensor4": {
+        "type": "Soil Moisture",
+        "value": "30",
+        "unit": "%",
+        "timestamp": "2024-09-13T10:10:00Z"
+      },
+      "sensor5": {
+        "type": "Light Intensity",
+        "value": "450",
+        "unit": "Lux",
+        "timestamp": "2024-09-13T10:15:00Z"
+      },
+      "sensor6": {
+        "type": "Temperature",
+        "value": "26.1",
+        "unit": "Celsius",
+        "timestamp": "2024-09-13T10:20:00Z"
+      },
+      "sensor7": {
+        "type": "Humidity",
+        "value": "62",
+        "unit": "%",
+        "timestamp": "2024-09-13T10:25:00Z"
+      },
+      "sensor8": {
+        "type": "Soil Moisture",
+        "value": "28",
+        "unit": "%",
+        "timestamp": "2024-09-13T10:30:00Z"
+      }
+    },
+    "userSettings": {
+      "user1": {
+        "name": "Hamza",
+        "notificationPreferences": {
+          "email": true,
+          "sms": false
+        }
+      },
+      "user2": {
+        "name": "Aisha",
+        "notificationPreferences": {
+          "email": true,
+          "sms": true
+        }
+      },
+      "user3": {
+        "name": "Ali",
+        "notificationPreferences": {
+          "email": false,
+          "sms": true
+        }
+      },
+      "user4": {
+        "name": "Sara",
+        "notificationPreferences": {
+          "email": true,
+          "sms": true
+        }
+      }
+    }
+  }
+  
